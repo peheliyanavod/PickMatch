@@ -1,0 +1,22 @@
+correct the foreign keys between tables
+newsletter section
+search bar 
+change table names
+show all products details to admin
+messege when adding and removing products
+add to cart and wishlist in allproducts page
+read more btn in blogs
+view all details of a product to the view icon
+all product to user with categories
+
+
+
+
+blog okkm ain krpn admin wla ehem ain krl na
+quantity ek adu wenwd blnn, add cart krnkot
+
+
+//stock add krnkot msg
+wishlist add msg in index
+pdctdetals msg display>/
+login form msg display >/
